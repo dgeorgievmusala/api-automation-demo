@@ -1,0 +1,11 @@
+Rest Assured
+-------------
+
+
+Assignment - File Upload & Download
+----
+POST:  https://the-internet.herokuapp.com/upload
+Any type of file.
+
+GET : https://the-internet.herokuapp.com/download/myfile.txt
+

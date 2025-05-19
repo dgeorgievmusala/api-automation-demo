@@ -1,0 +1,1139 @@
+{
+	"items": [
+		{
+			"name": "UserActions",
+			"data": [
+				{
+					"InsightHash": "UPLOADPHOTONUDGE*TZDNXABPE8AHLAOCWQ+SNDMYMFKPMVTNQ/6O/VE2IS0=*UF0MZS/WLUUY+VAUZ514K4WZ5VMGL6KNWWKKBLNN3UG=",
+					"FeedItemId": null,
+					"InsightType": "UploadPhotoNudge",
+					"InsightScenario": "User",
+					"UserActions": {
+						"userActions": {
+							"VIEW": [
+								{
+									"Count": 1,
+									"MostRecentActionTimestamp": "2025-05-19T08:18:37.5854687+00:00",
+									"UserActionType": "View",
+									"CallToActionType": null
+								},
+								{
+									"Count": 1,
+									"MostRecentActionTimestamp": "2025-05-19T08:18:42.3269687+00:00",
+									"UserActionType": "View",
+									"CallToActionType": null
+								}
+							],
+							"CALLTOACTIONCLICK": [
+								{
+									"Count": 1,
+									"MostRecentActionTimestamp": "2025-05-19T08:18:40.2986897+00:00",
+									"UserActionType": "CallToActionClick",
+									"CallToActionType": null
+								},
+								{
+									"Count": 1,
+									"MostRecentActionTimestamp": "2025-05-19T08:18:42.518087+00:00",
+									"UserActionType": "CallToActionClick",
+									"CallToActionType": null
+								},
+								{
+									"Count": 1,
+									"MostRecentActionTimestamp": "2025-05-19T08:18:46.5362538+00:00",
+									"UserActionType": "CallToActionClick",
+									"CallToActionType": null
+								}
+							]
+						}
+					},
+					"Version": "V1",
+					"ItemClass": "InsightInstanceActions",
+					"SecondaryKey": "VVBMT0FEUEhPVE9OVURHRSpUWkROWEFCUEU4QUhMQU9DV1ErU05ETVlNRktQTVZUTlEvNk8vVkUySVMwPSpVRjBNWlMvV0xVVVkrVkFVWjUxNEs0V1o1Vk1HTDZLTldXS0tCTE5OM1VHPQ",
+					"Id": null,
+					"CreatedDateTime": "0001-01-01T00:00:00+00:00",
+					"LastModifiedDateTime": "0001-01-01T00:00:00+00:00",
+					"SystemExpirationDateTime": null
+				}
+			]
+		},
+		{
+			"name": "userActions",
+			"data": []
+		},
+		{
+			"name": "CollaborationIntensity",
+			"data": [
+				{
+					"Id": "OID:4995DD54-F61B-4992-9E24-D2E271AD7579@07F9F097-894C-4976-A5F5-10F0A16703C3",
+					"Properties": {
+						"TransactionId": 1,
+						"CollaborationIntensityScore": 0.499,
+						"EmailSentIntensity": 0,
+						"EmailViewedIntensity": 0.499,
+						"ChatSentIntensity": 0,
+						"ChatReceivedIntensity": 0,
+						"CallIntensity": 0,
+						"MeetingIntensity": 0,
+						"CollaborationIntensityMaxLifetime": 0.499,
+						"AggregatedTotalTimeCurrentWeek": 2.5,
+						"AggregatedTotalTimeLast2Weeks": 2.5,
+						"AggregatedTotalTimeLast4Weeks": 2.5,
+						"AggregatedTotalTimeLast12Weeks": 2.5,
+						"AggregatedTotalTime": 2.5,
+						"AggregatedTotalTimeEmailSent": 0,
+						"AggregatedTotalTimeEmailViewed": 2.5,
+						"AggregatedTotalTimeChatSent": 0,
+						"AggregatedTotalTimeChatReceived": 0,
+						"AggregatedTotalTimeMeeting": 0,
+						"AggregatedTotalTimeCall": 0,
+						"MaxAggregatedTotalTimeLast1Week": 2.5,
+						"MaxAggregatedTotalTimeLast2Weeks": 2.5,
+						"MaxAggregatedTotalTimeLast4Weeks": 2.5,
+						"MaxAggregatedTotalTimeLast12Weeks": 2.5,
+						"TotalWeeksWithCollaboration": 1,
+						"RecentWeekWithCollaboration": "2025-05-19T08:00:59.853+00:00",
+						"FirstWeekWithCollaboration": "2025-05-19T07:40:38.991+00:00",
+						"CollaborationIntensityMaxLifetimeDate": "2025-05-19T08:00:59.853+00:00",
+						"MaxAggregatedTotalTimeLast1WeekDate": "2025-05-19T00:00:00+00:00",
+						"LastUpdatedWeek": "2025-05-19T00:00:00+00:00",
+						"IsTwoWayInteraction": false,
+						"Buckets": [
+							150,
+							0,
+							0,
+							0,
+							0,
+							0,
+							0,
+							0,
+							0,
+							0,
+							0,
+							0
+						]
+					}
+				}
+			]
+		},
+		{
+			"name": "collaborationNetworks",
+			"data": {
+				"Value": []
+			}
+		},
+		{
+			"name": "UserProfileInfo",
+			"data": {
+				"@odata.context": "https://substrate.office.com/profileb2/v2.0/users/fd891142-ddaf-497b-9703-e9d1ac8f56db@07f9f097-894c-4976-a5f5-10f0a16703c3/$metadata#profile(accounts(),addresses(),anniversaries(),directoryExtensionAttributes(),educationalActivities(),names(),emails(),notes(),interests(),languages(),phones(),positions(),projects(),responsibilities(),skills(),topics(),webAccounts(),websites(),awards(),publications(),patents(),certifications(),extensions(),photos(),profileVideoMetadata(),summary())",
+				"profileId": "profileId",
+				"lastModifiedDateTime": "2025-05-18T15:00:25.5238832Z",
+				"activities": [],
+				"accounts": [
+					{
+						"ageGroup": "",
+						"countryCode": "",
+						"userPrincipalName": "diyan.georgiev@avenga.com",
+						"externalDirectoryObjectId": "fd891142-ddaf-497b-9703-e9d1ac8f56db",
+						"alias": "diyan.georgiev",
+						"exchangeAccountType": "UserMailbox",
+						"exchangeAccountTypeDetails": "UserMailbox",
+						"cid": null,
+						"puid": 1153801133761210400,
+						"userType": "Member",
+						"accountEnabled": true,
+						"isSipEnabled": true,
+						"profileMemberType": null,
+						"userPersona": null,
+						"allowedAudiences": "organization",
+						"createdDateTime": "2025-05-14T09:12:38.0401532Z",
+						"lastModifiedDateTime": "2025-05-14T09:12:38.1426176Z",
+						"id": "0bd0e5b4-ac00-46da-81f9-be62b88d2b12",
+						"isSearchable": false,
+						"preferredLanguageTag": {
+							"locale": null,
+							"displayName": null
+						},
+						"originTenantInfo": null,
+						"createdBy": {
+							"user": null,
+							"application": {
+								"displayName": "AAD",
+								"id": null
+							},
+							"device": null
+						},
+						"inference": null,
+						"lastModifiedBy": {
+							"user": null,
+							"application": {
+								"displayName": "MsGraph",
+								"id": null
+							},
+							"device": null
+						},
+						"source": {
+							"type": [
+								"AAD",
+								"MsGraph"
+							]
+						},
+						"sources": [
+							{
+								"id": "4ce763dd-9214-4eff-af7c-da491cc3782d",
+								"isDefaultSource": true
+							},
+							{
+								"id": "0024a795-114d-4031-95c7-5fb543e00e80",
+								"properties": [
+									"isSipEnabled"
+								]
+							}
+						]
+					},
+					{
+						"ageGroup": "",
+						"countryCode": "",
+						"userPrincipalName": "",
+						"externalDirectoryObjectId": "",
+						"alias": "",
+						"exchangeAccountType": "UserMailbox",
+						"exchangeAccountTypeDetails": "UserMailbox",
+						"cid": null,
+						"puid": null,
+						"userType": null,
+						"accountEnabled": null,
+						"isSipEnabled": true,
+						"profileMemberType": null,
+						"userPersona": null,
+						"allowedAudiences": "federatedOrganizations",
+						"createdDateTime": "2025-05-14T09:12:38.0401534Z",
+						"lastModifiedDateTime": "2025-05-14T09:12:38.1426176Z",
+						"id": "b63f0ed8-b22f-4a84-9abd-02f1b9c91a40",
+						"isSearchable": false,
+						"preferredLanguageTag": {
+							"locale": null,
+							"displayName": null
+						},
+						"originTenantInfo": null,
+						"createdBy": {
+							"user": null,
+							"application": {
+								"displayName": "AAD",
+								"id": null
+							},
+							"device": null
+						},
+						"inference": null,
+						"lastModifiedBy": {
+							"user": null,
+							"application": {
+								"displayName": "MsGraph",
+								"id": null
+							},
+							"device": null
+						},
+						"source": {
+							"type": [
+								"AAD",
+								"MsGraph"
+							]
+						},
+						"sources": [
+							{
+								"id": "4ce763dd-9214-4eff-af7c-da491cc3782d",
+								"isDefaultSource": true
+							},
+							{
+								"id": "0024a795-114d-4031-95c7-5fb543e00e80",
+								"properties": [
+									"isSipEnabled"
+								]
+							}
+						]
+					}
+				],
+				"addresses": [],
+				"anniversaries": [],
+				"directoryExtensionAttributes": [
+					{
+						"displayName": "CustomAttribute1",
+						"value": "",
+						"allowedAudiences": "organization",
+						"createdDateTime": "2025-05-14T09:12:38.0401589Z",
+						"lastModifiedDateTime": "2025-05-14T09:12:38.0401589Z",
+						"id": "8c3a1059-ac9f-400d-8a2e-2b843cf1b163",
+						"isSearchable": false,
+						"createdBy": {
+							"user": null,
+							"application": {
+								"displayName": "AAD",
+								"id": null
+							},
+							"device": null
+						},
+						"inference": null,
+						"lastModifiedBy": {
+							"user": null,
+							"application": {
+								"displayName": "AAD",
+								"id": null
+							},
+							"device": null
+						},
+						"source": {
+							"type": [
+								"AAD"
+							]
+						},
+						"sources": [
+							{
+								"id": "4ce763dd-9214-4eff-af7c-da491cc3782d"
+							}
+						]
+					},
+					{
+						"displayName": "CustomAttribute2",
+						"value": "",
+						"allowedAudiences": "organization",
+						"createdDateTime": "2025-05-14T09:12:38.040159Z",
+						"lastModifiedDateTime": "2025-05-14T09:12:38.040159Z",
+						"id": "8fcf57ae-9de8-4eb7-95c5-779b659b6aa5",
+						"isSearchable": false,
+						"createdBy": {
+							"user": null,
+							"application": {
+								"displayName": "AAD",
+								"id": null
+							},
+							"device": null
+						},
+						"inference": null,
+						"lastModifiedBy": {
+							"user": null,
+							"application": {
+								"displayName": "AAD",
+								"id": null
+							},
+							"device": null
+						},
+						"source": {
+							"type": [
+								"AAD"
+							]
+						},
+						"sources": [
+							{
+								"id": "4ce763dd-9214-4eff-af7c-da491cc3782d"
+							}
+						]
+					},
+					{
+						"displayName": "CustomAttribute3",
+						"value": "",
+						"allowedAudiences": "organization",
+						"createdDateTime": "2025-05-14T09:12:38.0401591Z",
+						"lastModifiedDateTime": "2025-05-14T09:12:38.0401591Z",
+						"id": "a95766f0-f41c-4abd-be22-d7218ad741b5",
+						"isSearchable": false,
+						"createdBy": {
+							"user": null,
+							"application": {
+								"displayName": "AAD",
+								"id": null
+							},
+							"device": null
+						},
+						"inference": null,
+						"lastModifiedBy": {
+							"user": null,
+							"application": {
+								"displayName": "AAD",
+								"id": null
+							},
+							"device": null
+						},
+						"source": {
+							"type": [
+								"AAD"
+							]
+						},
+						"sources": [
+							{
+								"id": "4ce763dd-9214-4eff-af7c-da491cc3782d"
+							}
+						]
+					},
+					{
+						"displayName": "CustomAttribute4",
+						"value": "",
+						"allowedAudiences": "organization",
+						"createdDateTime": "2025-05-14T09:12:38.0401591Z",
+						"lastModifiedDateTime": "2025-05-14T09:12:38.0401592Z",
+						"id": "c4e355a5-5ded-45da-bee6-fd43df065c34",
+						"isSearchable": false,
+						"createdBy": {
+							"user": null,
+							"application": {
+								"displayName": "AAD",
+								"id": null
+							},
+							"device": null
+						},
+						"inference": null,
+						"lastModifiedBy": {
+							"user": null,
+							"application": {
+								"displayName": "AAD",
+								"id": null
+							},
+							"device": null
+						},
+						"source": {
+							"type": [
+								"AAD"
+							]
+						},
+						"sources": [
+							{
+								"id": "4ce763dd-9214-4eff-af7c-da491cc3782d"
+							}
+						]
+					},
+					{
+						"displayName": "CustomAttribute5",
+						"value": "",
+						"allowedAudiences": "organization",
+						"createdDateTime": "2025-05-14T09:12:38.0401592Z",
+						"lastModifiedDateTime": "2025-05-14T09:12:38.0401593Z",
+						"id": "34ddfab2-cefe-4b5f-9783-de04c1555a64",
+						"isSearchable": false,
+						"createdBy": {
+							"user": null,
+							"application": {
+								"displayName": "AAD",
+								"id": null
+							},
+							"device": null
+						},
+						"inference": null,
+						"lastModifiedBy": {
+							"user": null,
+							"application": {
+								"displayName": "AAD",
+								"id": null
+							},
+							"device": null
+						},
+						"source": {
+							"type": [
+								"AAD"
+							]
+						},
+						"sources": [
+							{
+								"id": "4ce763dd-9214-4eff-af7c-da491cc3782d"
+							}
+						]
+					},
+					{
+						"displayName": "CustomAttribute6",
+						"value": "",
+						"allowedAudiences": "organization",
+						"createdDateTime": "2025-05-14T09:12:38.0401593Z",
+						"lastModifiedDateTime": "2025-05-14T09:12:38.0401593Z",
+						"id": "56fff12b-4e86-4088-a990-11fd70d181d1",
+						"isSearchable": false,
+						"createdBy": {
+							"user": null,
+							"application": {
+								"displayName": "AAD",
+								"id": null
+							},
+							"device": null
+						},
+						"inference": null,
+						"lastModifiedBy": {
+							"user": null,
+							"application": {
+								"displayName": "AAD",
+								"id": null
+							},
+							"device": null
+						},
+						"source": {
+							"type": [
+								"AAD"
+							]
+						},
+						"sources": [
+							{
+								"id": "4ce763dd-9214-4eff-af7c-da491cc3782d"
+							}
+						]
+					},
+					{
+						"displayName": "CustomAttribute7",
+						"value": "",
+						"allowedAudiences": "organization",
+						"createdDateTime": "2025-05-14T09:12:38.0401594Z",
+						"lastModifiedDateTime": "2025-05-14T09:12:38.0401594Z",
+						"id": "8183cd45-d8d1-4e6d-84da-dd8ebd3d82a1",
+						"isSearchable": false,
+						"createdBy": {
+							"user": null,
+							"application": {
+								"displayName": "AAD",
+								"id": null
+							},
+							"device": null
+						},
+						"inference": null,
+						"lastModifiedBy": {
+							"user": null,
+							"application": {
+								"displayName": "AAD",
+								"id": null
+							},
+							"device": null
+						},
+						"source": {
+							"type": [
+								"AAD"
+							]
+						},
+						"sources": [
+							{
+								"id": "4ce763dd-9214-4eff-af7c-da491cc3782d"
+							}
+						]
+					},
+					{
+						"displayName": "CustomAttribute8",
+						"value": "",
+						"allowedAudiences": "organization",
+						"createdDateTime": "2025-05-14T09:12:38.0401595Z",
+						"lastModifiedDateTime": "2025-05-14T09:12:38.0401595Z",
+						"id": "24cac37b-8f2a-4513-9eef-f2a2c99ad4ec",
+						"isSearchable": false,
+						"createdBy": {
+							"user": null,
+							"application": {
+								"displayName": "AAD",
+								"id": null
+							},
+							"device": null
+						},
+						"inference": null,
+						"lastModifiedBy": {
+							"user": null,
+							"application": {
+								"displayName": "AAD",
+								"id": null
+							},
+							"device": null
+						},
+						"source": {
+							"type": [
+								"AAD"
+							]
+						},
+						"sources": [
+							{
+								"id": "4ce763dd-9214-4eff-af7c-da491cc3782d"
+							}
+						]
+					},
+					{
+						"displayName": "CustomAttribute9",
+						"value": "",
+						"allowedAudiences": "organization",
+						"createdDateTime": "2025-05-14T09:12:38.0401595Z",
+						"lastModifiedDateTime": "2025-05-14T09:12:38.0401596Z",
+						"id": "a3b5173f-11f9-4b88-a82d-9bb61f5234dd",
+						"isSearchable": false,
+						"createdBy": {
+							"user": null,
+							"application": {
+								"displayName": "AAD",
+								"id": null
+							},
+							"device": null
+						},
+						"inference": null,
+						"lastModifiedBy": {
+							"user": null,
+							"application": {
+								"displayName": "AAD",
+								"id": null
+							},
+							"device": null
+						},
+						"source": {
+							"type": [
+								"AAD"
+							]
+						},
+						"sources": [
+							{
+								"id": "4ce763dd-9214-4eff-af7c-da491cc3782d"
+							}
+						]
+					},
+					{
+						"displayName": "CustomAttribute10",
+						"value": "",
+						"allowedAudiences": "organization",
+						"createdDateTime": "2025-05-14T09:12:38.0401596Z",
+						"lastModifiedDateTime": "2025-05-14T09:12:38.0401597Z",
+						"id": "7c34fae2-6fc4-469e-a9b3-9b644edb0192",
+						"isSearchable": false,
+						"createdBy": {
+							"user": null,
+							"application": {
+								"displayName": "AAD",
+								"id": null
+							},
+							"device": null
+						},
+						"inference": null,
+						"lastModifiedBy": {
+							"user": null,
+							"application": {
+								"displayName": "AAD",
+								"id": null
+							},
+							"device": null
+						},
+						"source": {
+							"type": [
+								"AAD"
+							]
+						},
+						"sources": [
+							{
+								"id": "4ce763dd-9214-4eff-af7c-da491cc3782d"
+							}
+						]
+					},
+					{
+						"displayName": "CustomAttribute11",
+						"value": "",
+						"allowedAudiences": "organization",
+						"createdDateTime": "2025-05-14T09:12:38.0401597Z",
+						"lastModifiedDateTime": "2025-05-14T09:12:38.0401597Z",
+						"id": "33521b0d-c13d-4f9d-abab-c9dea3de9d46",
+						"isSearchable": false,
+						"createdBy": {
+							"user": null,
+							"application": {
+								"displayName": "AAD",
+								"id": null
+							},
+							"device": null
+						},
+						"inference": null,
+						"lastModifiedBy": {
+							"user": null,
+							"application": {
+								"displayName": "AAD",
+								"id": null
+							},
+							"device": null
+						},
+						"source": {
+							"type": [
+								"AAD"
+							]
+						},
+						"sources": [
+							{
+								"id": "4ce763dd-9214-4eff-af7c-da491cc3782d"
+							}
+						]
+					},
+					{
+						"displayName": "CustomAttribute12",
+						"value": "",
+						"allowedAudiences": "organization",
+						"createdDateTime": "2025-05-14T09:12:38.0401598Z",
+						"lastModifiedDateTime": "2025-05-14T09:12:38.0401598Z",
+						"id": "8cad0886-bfd5-43f2-aee1-81dbf5acc411",
+						"isSearchable": false,
+						"createdBy": {
+							"user": null,
+							"application": {
+								"displayName": "AAD",
+								"id": null
+							},
+							"device": null
+						},
+						"inference": null,
+						"lastModifiedBy": {
+							"user": null,
+							"application": {
+								"displayName": "AAD",
+								"id": null
+							},
+							"device": null
+						},
+						"source": {
+							"type": [
+								"AAD"
+							]
+						},
+						"sources": [
+							{
+								"id": "4ce763dd-9214-4eff-af7c-da491cc3782d"
+							}
+						]
+					},
+					{
+						"displayName": "CustomAttribute13",
+						"value": "",
+						"allowedAudiences": "organization",
+						"createdDateTime": "2025-05-14T09:12:38.0401599Z",
+						"lastModifiedDateTime": "2025-05-14T09:12:38.0401599Z",
+						"id": "8e78bec1-99c2-449b-a0ec-bb77a73d2b61",
+						"isSearchable": false,
+						"createdBy": {
+							"user": null,
+							"application": {
+								"displayName": "AAD",
+								"id": null
+							},
+							"device": null
+						},
+						"inference": null,
+						"lastModifiedBy": {
+							"user": null,
+							"application": {
+								"displayName": "AAD",
+								"id": null
+							},
+							"device": null
+						},
+						"source": {
+							"type": [
+								"AAD"
+							]
+						},
+						"sources": [
+							{
+								"id": "4ce763dd-9214-4eff-af7c-da491cc3782d"
+							}
+						]
+					},
+					{
+						"displayName": "CustomAttribute14",
+						"value": "",
+						"allowedAudiences": "organization",
+						"createdDateTime": "2025-05-14T09:12:38.04016Z",
+						"lastModifiedDateTime": "2025-05-14T09:12:38.04016Z",
+						"id": "b8708672-a737-43ab-9999-87d5b9fee72f",
+						"isSearchable": false,
+						"createdBy": {
+							"user": null,
+							"application": {
+								"displayName": "AAD",
+								"id": null
+							},
+							"device": null
+						},
+						"inference": null,
+						"lastModifiedBy": {
+							"user": null,
+							"application": {
+								"displayName": "AAD",
+								"id": null
+							},
+							"device": null
+						},
+						"source": {
+							"type": [
+								"AAD"
+							]
+						},
+						"sources": [
+							{
+								"id": "4ce763dd-9214-4eff-af7c-da491cc3782d"
+							}
+						]
+					},
+					{
+						"displayName": "CustomAttribute15",
+						"value": "",
+						"allowedAudiences": "organization",
+						"createdDateTime": "2025-05-14T09:12:38.0401601Z",
+						"lastModifiedDateTime": "2025-05-14T09:12:38.0401602Z",
+						"id": "eb8bc5b4-b621-46c7-bd8f-d26023be6cf1",
+						"isSearchable": false,
+						"createdBy": {
+							"user": null,
+							"application": {
+								"displayName": "AAD",
+								"id": null
+							},
+							"device": null
+						},
+						"inference": null,
+						"lastModifiedBy": {
+							"user": null,
+							"application": {
+								"displayName": "AAD",
+								"id": null
+							},
+							"device": null
+						},
+						"source": {
+							"type": [
+								"AAD"
+							]
+						},
+						"sources": [
+							{
+								"id": "4ce763dd-9214-4eff-af7c-da491cc3782d"
+							}
+						]
+					}
+				],
+				"educationalActivities": [],
+				"names": [
+					{
+						"displayName": "Diyan Georgiev",
+						"first": "Diyan",
+						"initials": "",
+						"last": "Georgiev",
+						"languageTag": null,
+						"maiden": null,
+						"middle": null,
+						"nickname": null,
+						"suffix": null,
+						"title": null,
+						"allowedAudiences": "organization, federatedOrganizations",
+						"createdDateTime": "2025-05-14T09:12:38.0401564Z",
+						"lastModifiedDateTime": "2025-05-14T09:12:38.0401567Z",
+						"id": "AadSource",
+						"isSearchable": false,
+						"pronunciation": null,
+						"createdBy": {
+							"user": null,
+							"application": {
+								"displayName": "AAD",
+								"id": null
+							},
+							"device": null
+						},
+						"inference": null,
+						"lastModifiedBy": {
+							"user": null,
+							"application": {
+								"displayName": "AAD",
+								"id": null
+							},
+							"device": null
+						},
+						"source": {
+							"type": [
+								"AAD"
+							]
+						},
+						"sources": [
+							{
+								"id": "4ce763dd-9214-4eff-af7c-da491cc3782d"
+							}
+						]
+					}
+				],
+				"emails": [
+					{
+						"address": "diyan.georgiev@avenga.com",
+						"displayName": null,
+						"type": "main",
+						"allowedAudiences": "organization, federatedOrganizations",
+						"createdDateTime": "2025-05-14T09:12:38.0401568Z",
+						"lastModifiedDateTime": "2025-05-14T09:12:38.0401568Z",
+						"id": "15c38ea1-966e-439c-8573-60f853f0c0cb",
+						"isSearchable": false,
+						"createdBy": {
+							"user": null,
+							"application": {
+								"displayName": "AAD",
+								"id": null
+							},
+							"device": null
+						},
+						"inference": null,
+						"lastModifiedBy": {
+							"user": null,
+							"application": {
+								"displayName": "AAD",
+								"id": null
+							},
+							"device": null
+						},
+						"source": {
+							"type": [
+								"AAD"
+							]
+						},
+						"sources": [
+							{
+								"id": "4ce763dd-9214-4eff-af7c-da491cc3782d"
+							}
+						]
+					},
+					{
+						"address": "diyan.georgiev@Qinshift.onmicrosoft.com",
+						"displayName": null,
+						"type": "work",
+						"allowedAudiences": "organization",
+						"createdDateTime": "2025-05-14T09:12:38.0401574Z",
+						"lastModifiedDateTime": "2025-05-14T09:12:38.0401574Z",
+						"id": "da452382-9019-449a-85b8-5f25fcd2b9b6",
+						"isSearchable": false,
+						"createdBy": {
+							"user": null,
+							"application": {
+								"displayName": "AAD",
+								"id": null
+							},
+							"device": null
+						},
+						"inference": null,
+						"lastModifiedBy": {
+							"user": null,
+							"application": {
+								"displayName": "AAD",
+								"id": null
+							},
+							"device": null
+						},
+						"source": {
+							"type": [
+								"AAD"
+							]
+						},
+						"sources": [
+							{
+								"id": "4ce763dd-9214-4eff-af7c-da491cc3782d"
+							}
+						]
+					}
+				],
+				"notes": [],
+				"interests": [],
+				"languages": [],
+				"phones": [],
+				"positions": [
+					{
+						"categories": [],
+						"isCurrent": true,
+						"allowedAudiences": "organization",
+						"createdDateTime": "2025-05-14T09:12:38.0401581Z",
+						"lastModifiedDateTime": "2025-05-14T09:12:38.0401588Z",
+						"id": "6a95d773-efbd-4b2f-84a9-ea1b1b28fa0f",
+						"isSearchable": false,
+						"detail": {
+							"description": null,
+							"endMonthYear": "0001-01-01T00:00:00Z",
+							"jobTitle": "",
+							"role": null,
+							"startMonthYear": "0001-01-01T00:00:00Z",
+							"summary": null,
+							"level": "",
+							"layer": null,
+							"secondaryJobTitle": null,
+							"secondaryRole": null,
+							"employeeId": null,
+							"employeeType": null,
+							"company": {
+								"displayName": "",
+								"pronunciation": null,
+								"department": "",
+								"companyCode": null,
+								"officeLocation": "",
+								"webUrl": null,
+								"secondaryDepartment": null,
+								"costCenter": null,
+								"division": null,
+								"address": {
+									"type": "business",
+									"postOfficeBox": null,
+									"street": "",
+									"city": "",
+									"state": "",
+									"countryOrRegion": "",
+									"postalCode": ""
+								}
+							}
+						},
+						"manager": null,
+						"colleagues": [],
+						"createdBy": {
+							"user": null,
+							"application": {
+								"displayName": "AAD",
+								"id": null
+							},
+							"device": null
+						},
+						"inference": null,
+						"lastModifiedBy": {
+							"user": null,
+							"application": {
+								"displayName": "AAD",
+								"id": null
+							},
+							"device": null
+						},
+						"source": {
+							"type": [
+								"AAD"
+							]
+						},
+						"sources": [
+							{
+								"id": "4ce763dd-9214-4eff-af7c-da491cc3782d"
+							}
+						]
+					}
+				],
+				"projects": [],
+				"responsibilities": [],
+				"skills": [],
+				"topics": [],
+				"webAccounts": [
+					{
+						"userId": "SIP:diyan.georgiev@avenga.com",
+						"description": "Address used for interacting with a user through instant messaging services",
+						"statusMessage": null,
+						"webUrl": null,
+						"allowedAudiences": "organization",
+						"createdDateTime": "2025-05-14T09:12:38.0401573Z",
+						"lastModifiedDateTime": "2025-05-14T09:12:38.0401574Z",
+						"id": "29b8f3a3-6dca-4251-bfd7-f86e9f0c214f",
+						"isSearchable": false,
+						"service": {
+							"name": "Microsoft Teams for Business",
+							"webUrl": "graph.microsoft.com/teams"
+						},
+						"createdBy": {
+							"user": null,
+							"application": {
+								"displayName": "AAD",
+								"id": null
+							},
+							"device": null
+						},
+						"inference": null,
+						"lastModifiedBy": {
+							"user": null,
+							"application": {
+								"displayName": "AAD",
+								"id": null
+							},
+							"device": null
+						},
+						"source": {
+							"type": [
+								"AAD"
+							]
+						},
+						"sources": [
+							{
+								"id": "4ce763dd-9214-4eff-af7c-da491cc3782d"
+							}
+						]
+					},
+					{
+						"userId": "",
+						"description": null,
+						"statusMessage": null,
+						"webUrl": "https://avengaglobal-my.sharepoint.com/personal/diyan_georgiev_avenga_com",
+						"allowedAudiences": "organization",
+						"createdDateTime": "2025-05-18T15:00:15.8075847Z",
+						"lastModifiedDateTime": "2025-05-18T15:00:15.807585Z",
+						"id": "b5892010-cd7c-45ab-989f-2d826967de01",
+						"isSearchable": false,
+						"service": {
+							"name": "",
+							"webUrl": ""
+						},
+						"createdBy": {
+							"user": null,
+							"application": {
+								"displayName": "UPA",
+								"id": null
+							},
+							"device": null
+						},
+						"inference": null,
+						"lastModifiedBy": {
+							"user": null,
+							"application": {
+								"displayName": "UPA",
+								"id": null
+							},
+							"device": null
+						},
+						"source": {
+							"type": [
+								"UPA"
+							]
+						},
+						"sources": [
+							{
+								"id": "6cdc4422-8c05-40c5-902e-8ade707725ab"
+							}
+						]
+					}
+				],
+				"websites": [],
+				"awards": [],
+				"publications": [],
+				"patents": [],
+				"certifications": [],
+				"extensions": [],
+				"photos": [],
+				"profileVideoMetadata": {
+					"profileVideoUrl": null,
+					"allowedAudiences": "organization",
+					"createdDateTime": "2025-05-14T09:12:37.5649152Z",
+					"lastModifiedDateTime": "2025-05-14T09:12:37.5649152Z",
+					"id": "306f1764-6e7e-43d3-aa0c-ca04790cd80b",
+					"isSearchable": false,
+					"createdBy": {
+						"user": null,
+						"application": null,
+						"device": null
+					},
+					"inference": null,
+					"lastModifiedBy": {
+						"user": null,
+						"application": null,
+						"device": null
+					},
+					"source": {
+						"type": [
+							"User"
+						]
+					},
+					"sources": [
+						{
+							"id": "46a57efc-33f8-4eec-a512-b90039ad6187"
+						}
+					]
+				},
+				"summary": null
+			}
+		},
+		{
+			"name": "PeopleHighlights",
+			"data": []
+		},
+		{
+			"name": "Pronouns",
+			"data": []
+		}
+	]
+}
