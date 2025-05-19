@@ -1,0 +1,8 @@
+Different ways to create post request body
+1. HashMap
+2. org.json library
+3.Using java POJO class
+4. External json file
+
+To run the json file json-server "file_name"
+
