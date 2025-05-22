@@ -1,0 +1,7 @@
+1. GET /api/v1/Books – Retrieve a list of all books.
+2. GET /api/v1/Books/{id} – Retrieve details of a specific book by its ID.
+3. POST /api/v1/Books – Add a new book to the system.
+4. PUT /api/v1/Books/{id} – Update an existing book by its ID.
+5. DELETE /api/v1/Books/{id} – Delete a book by its ID.
+
+https://fakerestapi.azurewebsites.net/index.html
